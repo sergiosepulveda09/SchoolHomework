@@ -1,0 +1,14 @@
+﻿  ASSIGNMENT 2.cpp
+h:\assignment 2\assignment 2\assignment 2.cpp(14): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  h:\assignment 2\assignment 2\assignment 2.cpp(14): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  h:\assignment 2\assignment 2\assignment 2.cpp(14): note: the missing variadic argument 2 is required by format string '%c'
+  h:\assignment 2\assignment 2\assignment 2.cpp(14): note: this argument is used as a buffer size
+h:\assignment 2\assignment 2\assignment 2.cpp(21): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  h:\assignment 2\assignment 2\assignment 2.cpp(21): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  h:\assignment 2\assignment 2\assignment 2.cpp(21): note: the missing variadic argument 2 is required by format string '%c'
+  h:\assignment 2\assignment 2\assignment 2.cpp(21): note: this argument is used as a buffer size
+h:\assignment 2\assignment 2\assignment 2.cpp(322): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  h:\assignment 2\assignment 2\assignment 2.cpp(322): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  h:\assignment 2\assignment 2\assignment 2.cpp(322): note: the missing variadic argument 2 is required by format string '%c'
+  h:\assignment 2\assignment 2\assignment 2.cpp(322): note: this argument is used as a buffer size
+  ASSIGNMENT 2.vcxproj -> H:\ASSIGNMENT 2\Debug\ASSIGNMENT 2.exe

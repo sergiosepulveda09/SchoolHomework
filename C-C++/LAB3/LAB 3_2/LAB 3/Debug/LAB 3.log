@@ -1,0 +1,11 @@
+﻿  LAB 3.cpp
+h:\lab 3\lab 3\lab 3.cpp(34): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+h:\lab 3\lab 3\lab 3.cpp(44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+h:\lab 3\lab 3\lab 3.cpp(145): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+h:\lab 3\lab 3\lab 3.cpp(201): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  h:\lab 3\lab 3\lab 3.cpp(201): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  h:\lab 3\lab 3\lab 3.cpp(201): note: the missing variadic argument 2 is required by format string '%c'
+  h:\lab 3\lab 3\lab 3.cpp(201): note: this argument is used as a buffer size
+h:\lab 3\lab 3\lab 3.cpp(47): warning C4715: 'ModifyDamage': not all control paths return a value
+h:\lab 3\lab 3\lab 3.cpp(130): warning C4715: 'DoubleOrNothing': not all control paths return a value
+  LAB 3.vcxproj -> H:\LAB 3\Debug\LAB 3.exe

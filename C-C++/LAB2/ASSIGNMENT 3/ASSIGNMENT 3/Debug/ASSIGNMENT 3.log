@@ -1,0 +1,18 @@
+﻿  ASSIGNMENT 3.cpp
+h:\assignment 3\assignment 3\assignment 3.cpp(139): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  h:\assignment 3\assignment 3\assignment 3.cpp(139): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  h:\assignment 3\assignment 3\assignment 3.cpp(139): note: the missing variadic argument 2 is required by format string '%c'
+  h:\assignment 3\assignment 3\assignment 3.cpp(139): note: this argument is used as a buffer size
+h:\assignment 3\assignment 3\assignment 3.cpp(161): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  h:\assignment 3\assignment 3\assignment 3.cpp(161): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  h:\assignment 3\assignment 3\assignment 3.cpp(161): note: the missing variadic argument 2 is required by format string '%c'
+  h:\assignment 3\assignment 3\assignment 3.cpp(161): note: this argument is used as a buffer size
+h:\assignment 3\assignment 3\assignment 3.cpp(178): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+h:\assignment 3\assignment 3\assignment 3.cpp(185): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+h:\assignment 3\assignment 3\assignment 3.cpp(192): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+h:\assignment 3\assignment 3\assignment 3.cpp(199): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+h:\assignment 3\assignment 3\assignment 3.cpp(206): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  h:\assignment 3\assignment 3\assignment 3.cpp(206): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  h:\assignment 3\assignment 3\assignment 3.cpp(206): note: the missing variadic argument 2 is required by format string '%c'
+  h:\assignment 3\assignment 3\assignment 3.cpp(206): note: this argument is used as a buffer size
+  ASSIGNMENT 3.vcxproj -> H:\ASSIGNMENT 3\Debug\ASSIGNMENT 3.exe

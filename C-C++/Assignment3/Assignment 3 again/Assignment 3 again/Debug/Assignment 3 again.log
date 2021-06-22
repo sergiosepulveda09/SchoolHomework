@@ -1,0 +1,17 @@
+﻿  Assignment 3 again.cpp
+h:\assignment 3 again\assignment 3 again\assignment 3 again.cpp(32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+h:\assignment 3 again\assignment 3 again\assignment 3 again.cpp(38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+h:\assignment 3 again\assignment 3 again\assignment 3 again.cpp(135): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  h:\assignment 3 again\assignment 3 again\assignment 3 again.cpp(135): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  h:\assignment 3 again\assignment 3 again\assignment 3 again.cpp(135): note: the missing variadic argument 2 is required by format string '%c'
+  h:\assignment 3 again\assignment 3 again\assignment 3 again.cpp(135): note: this argument is used as a buffer size
+h:\assignment 3 again\assignment 3 again\assignment 3 again.cpp(138): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\assignment 3 again\assignment 3 again\assignment 3 again.cpp(139): warning C4805: '==': unsafe mix of type 'char' and type 'bool' in operation
+h:\assignment 3 again\assignment 3 again\assignment 3 again.cpp(139): warning C4553: '==': result of expression not used; did you intend '='?
+h:\assignment 3 again\assignment 3 again\assignment 3 again.cpp(143): warning C4553: '==': result of expression not used; did you intend '='?
+h:\assignment 3 again\assignment 3 again\assignment 3 again.cpp(157): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  h:\assignment 3 again\assignment 3 again\assignment 3 again.cpp(157): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  h:\assignment 3 again\assignment 3 again\assignment 3 again.cpp(157): note: the missing variadic argument 2 is required by format string '%c'
+  h:\assignment 3 again\assignment 3 again\assignment 3 again.cpp(157): note: this argument is used as a buffer size
+h:\assignment 3 again\assignment 3 again\assignment 3 again.cpp(67): warning C4715: 'ToUpperCase': not all control paths return a value
+  Assignment 3 again.vcxproj -> H:\Assignment 3 again\Debug\Assignment 3 again.exe

@@ -1,0 +1,21 @@
+﻿'Assignment 3 again.exe' (Win32): Loaded '\\AIVFP111.AIV.EDMC.STU\StudentHome\1944977\Assignment 3 again\Debug\Assignment 3 again.exe'. Symbols loaded.
+'Assignment 3 again.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'Assignment 3 again.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'Assignment 3 again.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\kernel32.dll'
+'Assignment 3 again.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'Assignment 3 again.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'Assignment 3 again.exe' (Win32): Loaded 'C:\Windows\SysWOW64\apphelp.dll'. Cannot find or open the PDB file.
+'Assignment 3 again.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
+'Assignment 3 again.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+The thread 0x414 has exited with code 0 (0x0).
+'Assignment 3 again.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Cannot find or open the PDB file.
+'Assignment 3 again.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Cannot find or open the PDB file.
+'Assignment 3 again.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Cannot find or open the PDB file.
+'Assignment 3 again.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Cannot find or open the PDB file.
+'Assignment 3 again.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Cannot find or open the PDB file.
+'Assignment 3 again.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'Assignment 3 again.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Cannot find or open the PDB file.
+The thread 0x2804 has exited with code 0 (0x0).
+The thread 0x2b40 has exited with code 0 (0x0).
+The thread 0x13a8 has exited with code 0 (0x0).
+The program '[10552] Assignment 3 again.exe' has exited with code 0 (0x0).

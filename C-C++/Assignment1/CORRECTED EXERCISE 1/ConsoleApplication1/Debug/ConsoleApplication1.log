@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  ConsoleApplication1.cpp
+c:\users\1944977\downloads\punto 1\consoleapplication1\consoleapplication1.cpp(10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\1944977\downloads\punto 1\consoleapplication1\consoleapplication1.cpp(10): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\1944977\downloads\punto 1\consoleapplication1\consoleapplication1.cpp(10): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\1944977\downloads\punto 1\consoleapplication1\consoleapplication1.cpp(10): note: this argument is used as a buffer size
+  LINK : C:\Users\1944977\Downloads\PUNTO 1\Debug\ConsoleApplication1.exe not found or not built by the last incremental link; performing full link
+  ConsoleApplication1.vcxproj -> C:\Users\1944977\Downloads\PUNTO 1\Debug\ConsoleApplication1.exe

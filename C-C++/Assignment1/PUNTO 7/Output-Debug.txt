@@ -1,0 +1,21 @@
+﻿'PUNTO 7.exe' (Win32): Loaded '\\AIVFP111.AIV.EDMC.STU\StudentHome\1944977\PUNTO 7\Debug\PUNTO 7.exe'. Symbols loaded.
+'PUNTO 7.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'PUNTO 7.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'PUNTO 7.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\kernel32.dll'
+'PUNTO 7.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'PUNTO 7.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'PUNTO 7.exe' (Win32): Loaded 'C:\Windows\SysWOW64\apphelp.dll'. Cannot find or open the PDB file.
+'PUNTO 7.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
+'PUNTO 7.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+The thread 0x1448 has exited with code 0 (0x0).
+'PUNTO 7.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Cannot find or open the PDB file.
+'PUNTO 7.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Cannot find or open the PDB file.
+'PUNTO 7.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Cannot find or open the PDB file.
+'PUNTO 7.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Cannot find or open the PDB file.
+'PUNTO 7.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Cannot find or open the PDB file.
+'PUNTO 7.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'PUNTO 7.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Cannot find or open the PDB file.
+The thread 0x1d80 has exited with code 0 (0x0).
+The thread 0x2c4c has exited with code 0 (0x0).
+The thread 0x230c has exited with code 0 (0x0).
+The program '[2524] PUNTO 7.exe' has exited with code 0 (0x0).

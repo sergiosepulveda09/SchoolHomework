@@ -1,0 +1,10 @@
+﻿  ASSIGNMENT 2 EXERCISE 1 CORRECTION.cpp
+h:\assignment 2 exercise 1 correction\assignment 2 exercise 1 correction\assignment 2 exercise 1 correction.cpp(13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  h:\assignment 2 exercise 1 correction\assignment 2 exercise 1 correction\assignment 2 exercise 1 correction.cpp(13): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  h:\assignment 2 exercise 1 correction\assignment 2 exercise 1 correction\assignment 2 exercise 1 correction.cpp(13): note: the missing variadic argument 2 is required by format string '%c'
+  h:\assignment 2 exercise 1 correction\assignment 2 exercise 1 correction\assignment 2 exercise 1 correction.cpp(13): note: this argument is used as a buffer size
+h:\assignment 2 exercise 1 correction\assignment 2 exercise 1 correction\assignment 2 exercise 1 correction.cpp(31): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  h:\assignment 2 exercise 1 correction\assignment 2 exercise 1 correction\assignment 2 exercise 1 correction.cpp(31): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  h:\assignment 2 exercise 1 correction\assignment 2 exercise 1 correction\assignment 2 exercise 1 correction.cpp(31): note: the missing variadic argument 2 is required by format string '%c'
+  h:\assignment 2 exercise 1 correction\assignment 2 exercise 1 correction\assignment 2 exercise 1 correction.cpp(31): note: this argument is used as a buffer size
+  ASSIGNMENT 2 EXERCISE 1 CORRECTION.vcxproj -> H:\ASSIGNMENT 2 EXERCISE 1 CORRECTION\Debug\ASSIGNMENT 2 EXERCISE 1 CORRECTION.exe

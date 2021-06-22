@@ -1,0 +1,8 @@
+﻿  LAB 3 CORRECTION.cpp
+c:\users\1944977\source\repos\lab 3 correction\lab 3 correction\lab 3 correction.cpp(58): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\1944977\source\repos\lab 3 correction\lab 3 correction\lab 3 correction.cpp(72): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\1944977\source\repos\lab 3 correction\lab 3 correction\lab 3 correction.cpp(72): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\1944977\source\repos\lab 3 correction\lab 3 correction\lab 3 correction.cpp(72): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\1944977\source\repos\lab 3 correction\lab 3 correction\lab 3 correction.cpp(72): note: this argument is used as a buffer size
+c:\users\1944977\source\repos\lab 3 correction\lab 3 correction\lab 3 correction.cpp(55): warning C4715: 'DoubleOrNothing': not all control paths return a value
+  LAB 3 CORRECTION.vcxproj -> C:\Users\1944977\source\repos\LAB 3 CORRECTION\Debug\LAB 3 CORRECTION.exe

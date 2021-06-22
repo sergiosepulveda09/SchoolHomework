@@ -1,0 +1,6 @@
+﻿  NUMBER3EXERCISE.cpp
+h:\number3exercise\number3exercise\number3exercise.cpp(12): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  h:\number3exercise\number3exercise\number3exercise.cpp(12): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  h:\number3exercise\number3exercise\number3exercise.cpp(12): note: the missing variadic argument 2 is required by format string '%c'
+  h:\number3exercise\number3exercise\number3exercise.cpp(12): note: this argument is used as a buffer size
+  NUMBER3EXERCISE.vcxproj -> H:\NUMBER3EXERCISE\Debug\NUMBER3EXERCISE.exe
